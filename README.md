@@ -3,7 +3,7 @@
 
 ---
 
-Vous trouverez ici tous les exercices et exemples réalisés pendant le cours, triés par date.
+Vous trouverez ici tous les exercices et exemples réalisés pendant les cours, rangés dans des dossiers triés par date.
 
 Date | Description
 --- | ---
