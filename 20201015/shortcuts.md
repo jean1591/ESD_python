@@ -38,3 +38,9 @@ export_on_save:
 #### Commenter une ligne
 - `shift` + `cmd` + `/`
 - `shift` + `ctrl` + `/`
+
+#### Indender
+- `tab`
+
+#### Indender vers la gauche
+- `shift` + `tab`
