@@ -34,3 +34,7 @@ export_on_save:
 #### Sélectionner quelques unes
 - `cmd` + `D`
 - `ctrl` + `D`
+
+#### Commenter une ligne
+- `shift` + `cmd` + `/`
+- `shift` + `ctrl` + `/`
