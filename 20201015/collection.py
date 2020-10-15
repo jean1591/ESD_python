@@ -55,3 +55,18 @@ print("len(n_list)", len(n_list))
 # Clear => vide la liste
 n_list.clear()
 print(n_list)
+
+dct = {"one": 1, "two": 2, "three": 3}
+
+# Récupère les clefs sous forme de liste
+print(list(dct.keys()))
+
+# Récupère les valeurs sous forme de liste
+print(list(dct.values()))
+
+# Récupère tous les éléments (clefs : valeurs)
+print(list(dct.items()))
+
+# Clear => vide le dict
+dct.clear()
+print(dct)
