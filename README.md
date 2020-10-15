@@ -8,3 +8,4 @@ Vous trouverez ici tous les exercices et exemples réalisés pendant les cours, 
 Date | Description
 --- | ---
 20201006 | Installation Python & VSCode, test de fonctionnement
+20201015 | Variables & Types de Variables // Collections

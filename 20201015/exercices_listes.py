@@ -26,3 +26,23 @@ my_list = [1, 2, 3, 4, 5, 6]
 number_check = 3
 print(my_list.count(number_check))
 print(number_check in my_list)
+
+# Déclaration de liste
+empty_list = []
+str_list = ["one", "two", "three"]
+int_list = [1, 2, 3]
+
+# Concaténation de listes
+concat_list = str_list + int_list
+
+# Méthodes sur les listes
+concat_list.append("four")
+
+# Accès aux éléments
+print(concat_list[3:6])
+
+# Découpage de liste
+print(concat_list[:3])
+print(concat_list[3:6])
+
+print(concat_list)

@@ -22,3 +22,15 @@ print(my_dict["lst"])
 print(my_dict["address"]["streetNb"])
 print(my_dict["email"]["provider"][1])
 print(my_dict["mailing"][1])
+
+
+# Déclaration de dict
+empty_dict = {}
+dict_num = {"un": 1, "deux": 2, "trois": 3}
+
+# Méthodes sur les dict
+print(dict_num.keys())
+print(dict_num.values())
+
+# Accès aux éléments
+print(dict_num["deux"])
