@@ -46,3 +46,25 @@ print(concat_list[:3])
 print(concat_list[3:6])
 
 print(concat_list)
+
+
+new_string = "This is a new string"
+
+# Découper pour avoir une liste (séparateur => espace)
+new_list = new_string.split()
+
+# Nombre d'occurrences de "new"
+print(new_list.count("new"))
+# Nombre d'occurrences de "New"
+print(new_list.count("New"))
+
+# Vérifier si "This" est dans la liste
+print("This" in new_list)
+print(new_list.count("This"))
+
+# Taille de la liste
+print(len(new_list))
+
+# Ajouter "Hey!" à new_list
+new_list.append("Hey!")
+print(new_list)
