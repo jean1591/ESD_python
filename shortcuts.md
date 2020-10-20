@@ -4,8 +4,8 @@ export_on_save:
 ---
 
 #### Copier vers le bas
-- `shift` + `option` + `flèche bas / haut`
-- `shift` + `alt` + `flèche bas / haut`
+- `shift` + `option` + `flèche bas`
+- `shift` + `alt` + `flèche bas`
 
 #### Copier vers le haut
 - `shift` + `option` + `flèche haut`
