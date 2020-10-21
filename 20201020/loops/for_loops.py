@@ -8,29 +8,25 @@ print(student_finder())
 
 
 # ===== ===== ===== =====
+# ===== ===== ===== =====
+# Parcours des éléments de lst (type list d'int)
 lst = [1, 2, 3, 4]
 for item in lst:
-  print("element " + str(item))
-  print("element", item)
-  # print(f"element {item} square {item ** 2}")
+  print("element " + str(item)) # Identique à ci-dessous
+  print("element", item) # Identique à ci-dessus
+  # print(f"element {item} square {item ** 2}") # Identique à ci-dessus
 
 
+# ===== ===== ===== =====
+# ===== ===== ===== =====
+# Parcours des éléments de names (type list de string)
 names = ["simon", "arena"]
-
 for name in names:
   print(name, "is first row")
 
 
+# ===== ===== ===== =====
+# ===== ===== ===== =====
+# Parcours des éléments d'une string (type string)
 for letter in "ESD":
   print(letter)
-
-
-# for item in range(0, 10, 1): 
-for item in range(10):
-  print("Hello", item)
-
-for item in range(10, 21, 2): # Tous les nombres pairs entre 10 et 20
-  print(item)
-
-for item in range(11, 21, 2): # Tous les nombres impairs entre 11 et 20
-  print(item)

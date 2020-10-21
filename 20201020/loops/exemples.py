@@ -3,8 +3,6 @@ import os
 os.system("clear")
 
 
-
-
 lst = [1,2,3,4]
 
 for i in lst: # Parcours de la list lst

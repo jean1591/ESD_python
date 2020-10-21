@@ -8,6 +8,7 @@ print(student_finder())
 
 
 # ===== ===== ===== =====
+# ===== ===== ===== =====
 # Créez 2 variables int_1 et int_2 initialisées à 123 et 456 respectivement
 int_1 = 123
 int_2 = 456
@@ -24,14 +25,14 @@ else:
 print(int_1 + int_2)
 
 
-
+# ===== ===== ===== =====
 # ===== ===== ===== =====
 # Créez 2 variables str_1 et str_2 initialisées à "Hello" et "World!" respectivement
 str_1 = "Hello "
 str_2 = "World!"
 
 # À l'aide d'une structure conditionnelle if, vérifiez si la 1ère lettre de str_1 est en capital. Si c'est le cas, affichez str_2
-if str_1[0].isupper():
+if str_1[0].isupper(): # str_1[0] récupère le 1er caractère de str_1, .isupper() véfifie si l'élément passé est en capital
   print(str_2)
 
 # Sinon écrasez str_2 par "ESD"
@@ -42,6 +43,7 @@ else:
 print(str_1 + str_2)
 
 
+# ===== ===== ===== =====
 # ===== ===== ===== =====
 # Créez une variable boolean initialisée à False
 boolean = False

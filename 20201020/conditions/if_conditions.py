@@ -6,6 +6,8 @@ os.system("clear")
 from finder import student_finder
 print(student_finder())
 
+
+# ===== ===== ===== =====
 # ===== ===== ===== =====
 # Créez 2 variables int_1 et int_2 initialisées à 123 et 456 respectivement
 int_1 = 123
@@ -16,9 +18,7 @@ if int_1 < int_2:
   print("int_1 < int_2")
 
 
-
-
-
+# ===== ===== ===== =====
 # ===== ===== ===== =====
 # Créez 2 variables str_1 et str_2 initialisées à "Hello" et "World!" respectivement
 str_1 = "Hello"
@@ -28,8 +28,7 @@ str_2 = "World!"
 if str_1 == "Hello":
   print(str_2)
 
-
-
+# ===== ===== ===== =====
 # ===== ===== ===== =====
 # Créez 2 variables str_1 et str_2 initialisées à "Hello" et "World!" respectivement
 str_1 = "Hello"
