@@ -9,3 +9,4 @@ Date | Description
 --- | ---
 20201006 | Installation Python & VSCode, test de fonctionnement
 20201015 | Variables & Types de Variables // Collections
+20201020 | Conditions // Boucles
