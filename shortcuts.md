@@ -10,7 +10,7 @@ Copier vers le bas | `shift` + `option` + `bas` | `shift` + `alt` + `bas`
 Copier vers le haut | `shift` + `option` + `haut` | `shift` + `alt` + `haut`
 Déplacer vers le bas | `option` + `bas` | `alt` + `bas`
 Déplacer vers le haut | `option` + `haut` | `alt` + `haut`
-**Ouvrir/Fermer** |  | 
+**Ouvrir / Fermer** |  | 
 Ouvrir/Fermer le terminal VSCode | `cmd` + `J` | `ctrl` + `J`
 Ouvrir/Fermer la barre des dossiers | `cmd` + `B` | `ctrl` + `B`
 **Sélections** |  | 
