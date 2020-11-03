@@ -8,3 +8,11 @@
   "location": "sydney"
 } """
 
+
+names = ["Lucas", "Raphael", "Lucie", "Arena", "Alexandre", "Marie", "Simon", "Mirana", "Lilou", "Yann", "Lyvahne"]
+programs = ["basic", "premium"]
+sponsorship = [True, False]
+locations = ["sydney", "camberra", "perth", "darwin"]
+
+db = []
+
