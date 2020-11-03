@@ -1,5 +1,8 @@
 from random import choice, randint
 import os
+from pprint import pprint
+
+import pandas as pd
 
 os.system("clear")
 
@@ -23,21 +26,29 @@ db = [
 db = []
 
 # Création d'un dict
-tmp = {
+""" tmp = {
   "value": randint(1, 1000),
   "executed": choice([True, False]),
   "cat": choice(cat_list)
 }
-
-# print(tmp)
-
+print(tmp)
 db.append(tmp)
-
-print(db)
+print(db) """
 
 
 # Faire boucle for
-# Dans boucle => Générer dict tmp
-# Dans boucle + Dict généré => Ajouter dict à db via .append()
+for i in range(10):
+  # Dans boucle => Générer dict tmp
+  tmp = {
+    "value": randint(1, 1000),
+    "executed": choice([True, False]),
+    "cat": choice(cat_list)
+  }
+
+  # Dans boucle + Dict généré => Ajouter dict à db via .append()
+  db.append(tmp)
 # Fin boucle
+
 # Afficher db via print()
+pprint(db)
+# print(pd.DataFrame(db))
