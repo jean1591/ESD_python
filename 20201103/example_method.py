@@ -108,6 +108,7 @@ def only_even_r(lst):
 
 
 even_n = only_even_r(my_list)
+# even_n = only_even_r([1, 3, 5, 7])
 print(even_n)
 
 
@@ -151,9 +152,3 @@ Retour de la fonction:
   "age": 29
 }
 """
-
-
-
-
-my_list = [1, 2, 3, 4, 5, 22, 8, 10, 11, 16]
-# Fonction get_max qui prend en paramètre une liste d'int et qui retourne le plus grand élément de la liste
