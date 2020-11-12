@@ -11,3 +11,5 @@ Date | Description
 20201015 | Variables & Types de Variables // Collections
 20201020 | Conditions // Boucles
 20201027 | Correction DM // Exercices Boucles & Conditions
+20201103 | Dict, Boucles & Conditions // Methodes
+20201110 | Dict, Boucles & Conditions // Methodes
