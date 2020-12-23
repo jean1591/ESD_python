@@ -50,4 +50,7 @@ for user in users:
 
   del user["name"]
 
+
+
+
 pprint(users)
