@@ -1,0 +1,8 @@
+URL=http://api.aviationstack.com/v1/flights?access_key=62388ed3ee3406ceb2a69b9e0fc393a4&flight_icao=afr10
+
+
+Raisonnement:
+flight tracker api > 1er lien > 1ère recommandation (Aviationstack) > https://aviationstack.com/ > Documentation (https://aviationstack.com/documentation) > Recherche "track" > Real-Time Flights > https://api.aviationstack.com/v1/flights?access_key=YOUR_ACCESS_KEY > http://api.aviationstack.com/v1/flights?access_key=62388ed3ee3406ceb2a69b9e0fc393a4&flight_icao=afr10
+
+Wrapper:
+Oui Python, node.js, PHP, ...
